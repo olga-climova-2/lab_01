@@ -15,3 +15,25 @@
     font-size: 1.1rem;
     text-align: center;
 }
+
+.product-image {
+    width: 100%;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(210, 210, 210);
+}
+
+.product-name {
+    font-size: 1.4rem;
+}
+
+.product-description {
+    font-size: 1.1rem;
+    color: rgb(60, 60, 60);
+}
+
+.product-price {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(210, 210, 210);
+    margin: 0 1rem;
+}
